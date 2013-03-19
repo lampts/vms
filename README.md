@@ -14,9 +14,13 @@ Development focus for vms 2.0
 * (H,5): VMS standard
 * (H,3): Controller functions
 * (M,1): baseline version
+* (M,3): seminar: roadmap, know-hows, tech => Next Friday, 22 Mar
+* (M,3): reporting: Duy, Tung
 
 ## Release 2.0 Dec, 2013
 ---
 Development focus for vms 2.0s
 
 * (H,3) Integrated interface with ITS
+
+* STIS: concept
